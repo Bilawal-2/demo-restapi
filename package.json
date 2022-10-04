@@ -1,0 +1,15 @@
+{
+  "name": "my-nodejs-service",
+  "version": "1.0.0",
+  "description": "demo for app-enging",
+  "main": "index.js",
+  "scripts": {
+    "test": "test index.js",
+    "start": "node index.js"
+  },
+  "author": "bilawal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
